@@ -17,8 +17,10 @@ https://boilerplate-project-metricimpconverter--ahmadali5.repl.co/
         <li> use fractions, decimals or both in my parameter(ie. 5, 1/2, 2.5/6), but if nothing is provided it will default to 1.</li>
         <li>return will consist of the initNum, initUnit, returnNum, returnUnit, and string spelling out units in format <code>{initNum} {initial_Units} ==> {returnNum} {return_Units}</code> with the result rounded to 5 decimals.</li>
         
-      </ol>
-      <h3>Example Input:</h3>
+</ol>
+
+
+ <h3>Example Input:</h3>
       <code>input=4gal </code>, 
       <code>input=1/2km </code>, 
       <code>input=5.4/3lbs </code>, 
@@ -28,7 +30,8 @@ https://boilerplate-project-metricimpconverter--ahmadali5.repl.co/
     </div>
     
  ## video:
- <iframe width="560" height="315" src="https://www.youtube.com/embed/f3vxdx8I_c0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Uints Converter API By Ahmad Ali ](http://img.youtube.com/vi/f3vxdx8I_c0/0.jpg)](http://www.youtube.com/watch?v=f3vxdx8I_c0 "Uints Converter API By Ahmad Ali ")
+
  
  ## my portfolio:
  http://www.ahmad-ali.co.uk/
